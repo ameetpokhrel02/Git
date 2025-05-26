@@ -17,9 +17,12 @@ This project features a modern, animated login and signup page designed for a ca
 3. Test the social login buttons and enjoy the animations.
 
 ## Screenshot
-
-![Screenshot](![alt text](image.png)
+1. Creating Account
 ![alt text](image-1.png)
+
+2. Login Form
+(![alt text](image.png)
+
 ## Customization
 
 - Replace the car image URL in the HTML for your own branding.
